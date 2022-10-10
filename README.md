@@ -1,6 +1,6 @@
 # Expanding Cards
 
-- 50Projects50Days - Udemy
+- 50 Projects 50 Days - Udemy
 - Image cards with h3, expand when clicked
 
 ## Javascript
